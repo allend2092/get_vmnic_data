@@ -7,7 +7,7 @@ import sys
 connection_parameters = {
     "device_type": "generic",
     "username": "root",
-    "password": "Apple123@",
+    "password": "password",
 }
 dns_server = "172.17.8.20"
 
